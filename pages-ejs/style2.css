@@ -1,0 +1,17 @@
+body {
+	background: #860275;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+a {
+	color: rgb(255, 155, 222);
+}
+ul {
+	background: #982cfd;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 20px 20px 20px 40px;
+	text-align: left;
+}

@@ -1,0 +1,18 @@
+body {
+	background: #09ff2a;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+a {
+	color: rgb(0, 90, 12);
+}
+ul {
+	background: #73fa95;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 20px 20px 20px 40px;
+	text-align: left;
+    color: #007510;
+}
